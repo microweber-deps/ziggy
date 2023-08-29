@@ -18,14 +18,7 @@
             "email": "jacob@tighten.co"
         }
     ],
-    "require": {
-        "ext-json": "*",
-        "laravel/framework": "*"
-    },
-    "require-dev": {
-        "orchestra/testbench": "*",
-        "phpunit/phpunit": "*"
-    },
+   
     "autoload": {
         "psr-4": {
             "Tightenco\\Ziggy\\": "src/"
